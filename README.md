@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a passionate data engineer with a strong desire to learn and grow in the fields of technology and artificial intelligence.
+I am a passionate data engineer with a strong desire to learn and grow in the field of technology.
 
 I am currently a computer science engineering student. I have a strong foundation in data structures and algorithms, as well as experience with programming languages like Python and SQL. I am also proficient in building data pipelines and have some hands-on experience with cloud technologies.
 
