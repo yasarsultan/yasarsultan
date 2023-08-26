@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-I am a passionate data engineer with a strong desire to learn and grow in the field of technology.
-
-I am currently a computer science engineering student. I have a strong foundation in data structures and algorithms, as well as experience with programming languages like Python and SQL. I am also proficient in building data pipelines and have some hands-on experience with cloud technologies.
+I am currently a computer science engineering student with strong foundation in data structures and algorithms as well as programming skills in Python and SQL. I am also proficient in building data pipelines and have some hands-on experience with cloud technologies.
 
 <!--**yasarsultan/yasarsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
