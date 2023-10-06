@@ -30,3 +30,6 @@ I'm a Computer Science Engineering student with a passion for data science and e
 
 ### 📫 How to reach me: 
 If you'd like to get in touch, feel free to reach out via email.
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yasarsultan.yasarsultan)
